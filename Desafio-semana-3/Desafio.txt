@@ -1,0 +1,6 @@
+Intel Core i7-4790 - Matilda = O i7 neste caso, é o processador mais potente entre os 3, e também é compatível com o requisito mínimo para rodar o Cyberpunk 2077.
+Logo, este é o processador mais indicado para esta situação.
+
+Intel Core i5-6360U - Carlos = Para realizar a edição de vídeo com o After Effects, seria necessário um processaro intermediário, neste caso, o I5 atenderia completamente este requisito, ou seja, ele seria a melhor opção para este caso, obtendo o menor desperdício se comparado ao I7.
+
+Intel Core i3-3217UE - Marcelo = Para executar a Suite Office, não precisarímos de muito poder de processamento, pois a ferramenta é de uso doméstico e exigiria muito pouco para esta ação.
